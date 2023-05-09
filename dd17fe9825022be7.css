@@ -3369,3 +3369,14 @@ button.date-input{
     opacity:.4;
     transform:rotate(3deg) translateY(-4px)
 }
+#key-format {
+    width:auto;
+    height:auto;
+    margin-top:25px;
+    margin-bottom:25px;
+    background-color:#2a2a2a;
+    border:2px solid grey;
+    text-align:center;
+    border-radius:10px;
+    padding:10px;
+}
